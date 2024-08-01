@@ -5,8 +5,10 @@ import PackageDescription
 
 let package = Package(
     name: "HeadsetHub",
+    platforms: [.iOS(.v15)],
     products: [
-        .library(name: "JLSDK", targets: ["JL_AdvParse", "JL_HashPair", "JL_OTALib"])
+        .library(name: "JLSDK", targets: ["JL_AdvParse", "JL_HashPair", "JL_OTALib"]),
+        .library(name: "BESSDK", targets: ["BESSDK"]),
     ],
     targets: [
         // JL
@@ -23,6 +25,11 @@ let package = Package(
         .binaryTarget(
             name: "JL_OTALib",
             path: "JLSDK/JL_OTALib.xcframework"
-        )
+        ),
+        // BES
+        .target(
+            name: "BESSDK",
+            path: "BESSDK"
+        ),
     ]
 )
