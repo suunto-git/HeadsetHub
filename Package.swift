@@ -5,7 +5,7 @@ import PackageDescription
 
 let package = Package(
     name: "HeadsetHub",
-    platforms: [.iOS(.v15)],
+    platforms: [.iOS(.v14)],
     products: [
         .library(name: "JLSDK", targets: ["JL_AdvParse", "JL_HashPair", "JL_OTALib"]),
         .library(name: "BESSDK", targets: ["BESSDK"]),
