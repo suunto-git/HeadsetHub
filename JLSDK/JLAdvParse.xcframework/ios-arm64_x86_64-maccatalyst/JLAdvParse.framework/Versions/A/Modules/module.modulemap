@@ -1,0 +1,6 @@
+framework module JLAdvParse {
+  umbrella header "JLAdvParse.h"
+  export *
+
+  module * { export * }
+}
