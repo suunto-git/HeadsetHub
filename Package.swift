@@ -14,17 +14,17 @@ let package = Package(
         // JL
         .binaryTarget(
             name: "JL_AdvParse",
-            path: "JLSDK/JLAdvParse.xcframework"
+            path: "JLSDK/JL_AdvParse.xcframework"
         ),
         
         .binaryTarget(
             name: "JL_HashPair",
-            path: "JLSDK/JLHashPair.xcframework"
+            path: "JLSDK/JL_HashPair.xcframework"
         ),
         
         .binaryTarget(
             name: "JL_OTALib",
-            path: "JLSDK/JLOtaLib.xcframework"
+            path: "JLSDK/JL_OTALib.xcframework"
         ),
         // BES
         .target(

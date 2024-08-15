@@ -1,6 +1,0 @@
-framework module JLOtaLib {
-  umbrella header "JLOtaLib.h"
-  export *
-
-  module * { export * }
-}
