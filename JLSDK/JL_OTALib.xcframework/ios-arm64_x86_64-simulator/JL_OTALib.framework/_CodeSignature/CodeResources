@@ -10,7 +10,7 @@
 		</data>
 		<key>Headers/JL_OTAManager.h</key>
 		<data>
-		mnUWGHkVdztLONYJVXa8U1vI8v0=
+		yomqqonlK4OwTOHXHIGjfux6jew=
 		</data>
 		<key>Headers/jl_ufw.h</key>
 		<data>
@@ -18,11 +18,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Yki5iBTspAsZM2vxFhCuuxblEIY=
+		bcwevAVbJ2L6cWzZgVQnvzNa4HU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		mFkN9/leMQQgjhFAiCrICKdkBFI=
+		Djaqrf2BV/5uLRNN6e4M1DPfyG4=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -42,11 +42,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			mnUWGHkVdztLONYJVXa8U1vI8v0=
+			yomqqonlK4OwTOHXHIGjfux6jew=
 			</data>
 			<key>hash2</key>
 			<data>
-			mtLVHztzv16ft/k2hqA9AkV47w8czDfmCJeUYm9Oc3M=
+			HBvFWkxCyyc+WI8t6fZ5AbeAKcIEHkCvlxxwvP3skXA=
 			</data>
 		</dict>
 		<key>Headers/jl_ufw.h</key>
@@ -64,11 +64,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			mFkN9/leMQQgjhFAiCrICKdkBFI=
+			Djaqrf2BV/5uLRNN6e4M1DPfyG4=
 			</data>
 			<key>hash2</key>
 			<data>
-			RBNTIeeOGJpZdIweF7ykjCokK/8TBVu+jiz6GIe3ntY=
+			CQv4Q+xyzKhKSJpAY8gU98Qv9Wv1W16ILQ5MGAKukrA=
 			</data>
 		</dict>
 	</dict>

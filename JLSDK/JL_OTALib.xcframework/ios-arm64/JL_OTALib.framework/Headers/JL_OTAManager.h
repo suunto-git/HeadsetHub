@@ -32,6 +32,7 @@ typedef NS_ENUM(UInt8, JL_OTAResult) {
     JL_OTAResultReboot              = 0x0a, //OTA需设备重启
     JL_OTAResultPreparing           = 0x0b, //OTA准备中
     JL_OTAResultPrepared            = 0x0f, //OTA准备完成
+    JL_OTAResultCancel              = 0xe1, // 升级取消
     JL_OTAResultFailVerification    = 0xf1, //升级数据校验失败
     JL_OTAResultFailCompletely      = 0xf2, //升级失败
     JL_OTAResultFailKey             = 0xf3, //升级数据校验失败，加密Key不对
